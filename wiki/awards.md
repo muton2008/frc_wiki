@@ -1,0 +1,10 @@
+# 獎項
+- 每場比賽評審會面談隊伍並頒獎；有些獎看機器人，有些看團隊，有些需要另外提交資料。[S2]
+- 看機器人：Autonomous、Creativity、Excellence in Engineering、Industrial Design、Innovation in Control、Quality。[S2]
+- 看團隊：Engineering Inspiration、Gracious Professionalism、Imagery、Judges、Rising All-Star、Rookie All-Star、Team Spirit、Team Sustainability。[S2]
+- 需提交資料：FIRST Impact Award（原名 Chairman’s Award）、FIRST Leadership Award（原名 Dean’s List）、Woodie Flowers Award、Digital Animation、Safety Animation。[S2]
+- 其他：Winner（獲勝聯盟）、Finalist（決賽落敗聯盟）、Volunteer of the Year。[S2]
+- FIRST Impact Award 是 FIRST 最具代表性的獎項，頒給對夥伴、學校與社群有長期且可衡量影響的隊伍，得獎隊伍受邀到 FIRST Championship。[S3]
+- Engineering Inspiration：表彰在學校與社區推廣工程的尊重與欣賞，得獎隊伍晉級世界賽。[S3]
+- Woodie Flowers Award：表彰優秀導師，由學生用文章提名。[S3]
+- Dean’s List：表彰傑出的學生領袖。[S3]

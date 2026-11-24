@@ -1,0 +1,11 @@
+# 日誌（2026-11-23）
+- 使用者改變範圍：從 FRC 6998 改成介紹 FRC，建立新 Wiki。
+- ingest S1 FIRST 官方簡介：建立 what-is-frc、season-timeline、start-a-team、numbers 的校友數據。
+- ingest S2 維基百科：補起源、獎項分類、晉級制度、歷年數字。發現頁內數字不一致，寫入 C2。
+- ingest S3 CA FIRST：補三個代表獎項的定義。
+- ingest S4 FIRST FAQ（僅摘要）：2022-2023 隊數，與 S2 比對，寫入 C1。
+- ingest S5 NPR（僅摘要）：隊伍數與業界貢獻。
+- ingest S6 Machine Design（僅摘要，年代較舊）：淘汰賽挑隊友、贊助。
+- ingest S7 O’Reilly 書（僅摘要，2007 年）：比賽長度、隨機聯盟。
+- ingest S8 GVSU（僅摘要）：Kickoff 與六週製作期。
+- lint：數字衝突 2 項，僅摘要來源 5 個，舊來源 2 個（S6、S7）。

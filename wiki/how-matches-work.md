@@ -1,0 +1,10 @@
+# 比賽怎麼進行
+- 比賽由三隊組成一個 alliance，對抗另一個 alliance。[S1]
+- 一場比賽只有兩分多鐘。[S7]
+- 資格賽的聯盟是隨機分配，這場的隊友下一場可能是對手。[S7]
+- 進入淘汰賽時，排名高的隊伍挑選其他隊伍組成聯盟。[S6]
+- 製作期約六週，機器人最重 125 磅（57 公斤）。[S2]
+- Regional 模式：參加一場大型區域賽，依成績直接晉級 FIRST Championship。[S2]
+- District 模式：可參加兩場較小的賽事，再參加 District Championship，依名額晉級。[S2]
+- FIRST Championship 在四月下旬舉行，2025 年約 600 隊在 Houston 參賽，分成 8 個 division，各 division 的冠軍聯盟進入 Einstein Field 決賽。[S2]
+- 獲勝聯盟隔年自動晉級 Championship；Impact Award 得主自動晉級接下來 8 個賽季。[S2]
