@@ -1,1 +1,1 @@
-# It's just a homework!
+# It's just homework!
